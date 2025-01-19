@@ -6,8 +6,8 @@ Web application with an interface created from React components, developed with 
 ## Setup 
 
 1. Backend
-  - Run `npm install` to install all project dependencies
-  - Run `npx nodemon src/server.js | npx run dev | npm run dev` to start-up the server 
+   - Run `npm install` to install all project dependencies
+   - Run `npx nodemon src/server.js | npx run dev | npm run dev` to start-up the server 
 
 2. Frontend
    - Run `npm install` to install all project dependencies
