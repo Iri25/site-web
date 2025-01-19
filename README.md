@@ -1,4 +1,7 @@
 # site-web
+Full-Stack application using React, Node.js, MongoDB and Google Cloud.
+
+Web application with an interface created from React components, developed with a Node.js server, connected to a MongoDB database, added user authentication with Firebase Auth, and deployed the site on Amazon Web Services.
 
 ## Setup 
 
